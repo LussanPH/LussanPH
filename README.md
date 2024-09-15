@@ -1,5 +1,7 @@
 ## Olá! Meu nome é Pedro Henrique Luna Lessa
-- Sou estudante de Ciencias da Computação na Universidade Estadual do Ceará(UECE), voluntário no laboratório de pesquisa LAURA(Learn Understand Reason Act)
+- Sou estudante de Ciencias da Computação na Universidade Estadual do Ceará(UECE)
+- Participei do Laboratório de algoritmos de busca e ML LAURA
+- Bolsita do LAGIC em mineração de dados em diários oficiais
 - Atualmente estou trabalhando com aprendizado de máquinas em pyhton
 <div style="display: inline_block"><br>
   <img align="center" alt="Luna-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
