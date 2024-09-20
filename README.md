@@ -1,8 +1,8 @@
-## Olá! Meu nome é Pedro Henrique Luna Lessa
-- Sou estudante de Ciencias da Computação na Universidade Estadual do Ceará(UECE)
-- Participei do Laboratório de algoritmos de busca e ML LAURA
-- Bolsita do LAGIC em mineração de dados em diários oficiais
-- Atualmente estou trabalhando com aprendizado de máquinas em pyhton
+## Hello! My name is Pedro Henrique Luna Lessa
+- I am a Computer Science student at the Univesridade Estadual do Ceará(UECE)
+- I participated in the LAURA Lab for search algorithms and ML
+- Scholarship holder at LAGIC, working on data mining in official journals
+- Currently, I am working with Data Mining
 <div style="display: inline_block"><br>
   <img align="center" alt="Luna-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img align="center" alt="Luna-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
